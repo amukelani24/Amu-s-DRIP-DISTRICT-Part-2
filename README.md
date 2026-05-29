@@ -49,23 +49,7 @@ Structured content sections
 Consistent page design
 Folder Structure
 Amu_DRIP_DISTRICT/
-│
-├── index.html
-├── about.html
-├── gallery.html
-├── contact.html
-├── services.html
-│
-├── CSS/
-│   └── style.css
-│
-├── Images/
-│   ├── logo/
-│   ├── banner/
-│   └── outfits/
-│
-└── README.md
-Changelog
+
 Part 2 Updates
 Added external CSS stylesheet
 Improved typography and website styling
